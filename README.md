@@ -149,8 +149,8 @@ module.exports = nextConfig;
 
 ## 📄 Documentation
 
-- [Project Document](./docs/Daily_Habit_Tracker_Project_Document.docx)
-- [Research Paper](./docs/Daily_Habit_Tracker_Research_Paper.docx)
+- [Project Document](./public/Daily_Habit_Tracker_Project_Document.md)
+- [Research Paper](./public/Daily_Habit_Tracker_Research_Paper.md)
 
 ---
 
